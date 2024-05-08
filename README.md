@@ -1,3 +1,6 @@
+Additional Steps Taken: Made with Next.js and TypeScript
+TypeScript Integration: The project has been enhanced with TypeScript for type safety and better code development experience.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
